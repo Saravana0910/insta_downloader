@@ -1,6 +1,6 @@
 {
-    "name" : "instadpinfobot",
-    "description" : "Telegram bot to get insta DP",
-    "repository" : "https://github.com/Saravana0910/instadpinfobot",
+    "name" : "insta_downloader",
+    "description" : "Telegram bot to download insta posts",
+    "repository" : "https://github.com/Saravana0910/insta_downloader",
     "keywords" : ["instagram" , "telegram" , "telegram bot", "python"]
 }
