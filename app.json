@@ -1,0 +1,6 @@
+{
+    "name" : "instadpinfobot",
+    "description" : "Telegram bot to get insta DP",
+    "repository" : "https://github.com/Saravana0910/instadpinfobot",
+    "keywords" : ["instagram" , "telegram" , "telegram bot", "python"]
+}
