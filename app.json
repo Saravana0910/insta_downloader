@@ -3,13 +3,17 @@
     "description" : "Telegram bot to download insta posts",
     "repository" : "https://github.com/Saravana0910/insta_downloader",
     "keywords" : ["instagram" , "telegram" , "telegram bot", "python"]
-     "env" : {
+    "env" : {
         "BOT_TOKEN" : {
             "description" : "Enter your telegram bot token",
             "value" : ""
         },
         "APP_NAME" : {
             "description" : "Enter your heroku app name",
+            "value" : ""
+        },
+        "TELEGRAM_USERNAME" :{
+            "description" : "Enter your telegram username",
             "value" : ""
         }
     }
